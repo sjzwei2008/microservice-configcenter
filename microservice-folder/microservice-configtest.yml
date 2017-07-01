@@ -1,0 +1,3 @@
+spring:
+  datasources:
+    uri: http
